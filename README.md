@@ -19,14 +19,6 @@ npm install
 npm run dev
 ```
 
-## What I Learned
-
-- **useState** - managing component state
-- **useEffect** - side effects and auto-scrolling
-- **useRef** - DOM references
-- **Tailwind CSS** - utility-first styling
-- **Dark mode** - with localStorage and system preferences
-
 ## Project Structure
 
 ```
